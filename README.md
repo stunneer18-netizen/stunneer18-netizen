@@ -1,6 +1,6 @@
 # Hi there, I'm Siphiwe 👋
 
-I am an **Aspiring SOC Analyst** and a **Zaio Institute of Technology alumnus**. I am actively building my industry experience through dual internships at **Techbiz** and **Networkwalks**, specializing in Cybersecurity, Ethical Hacking, and CCNA Networking while preparing for the **CompTIA Security+** examination.
+I am an **Aspiring SOC Analyst** and a [**Zaio Institute of Technology alumnus**](https://www.zaio.io/). I am actively building my industry experience through dual internships at [**Techbiz**](https://academy.techbiz-sec.com/) and [**Networkwalks**](https://networkwalks.com/), specializing in Cybersecurity, Ethical Hacking, and CCNA Networking while preparing for the **CompTIA Security+** examination.
 
 ### 🛠️ Core Security & SIEM Stack
 - **SIEM & Log Analysis:** Wazuh, Kibana, Log monitoring & parsing
