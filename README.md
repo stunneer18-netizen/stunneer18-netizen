@@ -1,4 +1,4 @@
-# Hi there, I'm Siphiwe Toise 👋
+# Hi there, I'm Siphiwe 👋
 
 I am an **Aspiring SOC Analyst** dedicated to threat detection, network defense, and incident response. I have a foundational background in software and systems security, and I am currently sharpening my hands-on technical skills through industry internships.
 
