@@ -23,4 +23,4 @@ As a graduate of the [**Zaio Institute of Technology Cybersecurity Bootcamp**](h
 - 💼 [LinkedIn](www.linkedin.com/in/siphiwe-toise-62061b28a)
 - 📧 [Email](stunneer18@gmail.com)
 
-- [![Siphiwe's GitHub stats](https://github-stats-extended.vercel.app/api?username=stunneer18-netizen)](https://github.com/stats-organization/github-stats-extended)
+[![Siphiwe's GitHub stats](https://github-stats-extended.vercel.app/api?username=stunneer18-netizen)](https://github.com/stats-organization/github-stats-extended)
